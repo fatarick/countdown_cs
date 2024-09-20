@@ -1,0 +1,14 @@
+C:\Users\artat\source\repos\CountdownToSomething\CountdownToSomething\bin\Debug\net8.0\CountdownToSomething.exe
+C:\Users\artat\source\repos\CountdownToSomething\CountdownToSomething\bin\Debug\net8.0\CountdownToSomething.deps.json
+C:\Users\artat\source\repos\CountdownToSomething\CountdownToSomething\bin\Debug\net8.0\CountdownToSomething.runtimeconfig.json
+C:\Users\artat\source\repos\CountdownToSomething\CountdownToSomething\bin\Debug\net8.0\CountdownToSomething.dll
+C:\Users\artat\source\repos\CountdownToSomething\CountdownToSomething\bin\Debug\net8.0\CountdownToSomething.pdb
+C:\Users\artat\source\repos\CountdownToSomething\CountdownToSomething\obj\Debug\net8.0\CountdownToSomething.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artat\source\repos\CountdownToSomething\CountdownToSomething\obj\Debug\net8.0\CountdownToSomething.AssemblyInfoInputs.cache
+C:\Users\artat\source\repos\CountdownToSomething\CountdownToSomething\obj\Debug\net8.0\CountdownToSomething.AssemblyInfo.cs
+C:\Users\artat\source\repos\CountdownToSomething\CountdownToSomething\obj\Debug\net8.0\CountdownToSomething.csproj.CoreCompileInputs.cache
+C:\Users\artat\source\repos\CountdownToSomething\CountdownToSomething\obj\Debug\net8.0\CountdownToSomething.dll
+C:\Users\artat\source\repos\CountdownToSomething\CountdownToSomething\obj\Debug\net8.0\refint\CountdownToSomething.dll
+C:\Users\artat\source\repos\CountdownToSomething\CountdownToSomething\obj\Debug\net8.0\CountdownToSomething.pdb
+C:\Users\artat\source\repos\CountdownToSomething\CountdownToSomething\obj\Debug\net8.0\CountdownToSomething.genruntimeconfig.cache
+C:\Users\artat\source\repos\CountdownToSomething\CountdownToSomething\obj\Debug\net8.0\ref\CountdownToSomething.dll

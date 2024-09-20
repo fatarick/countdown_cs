@@ -1,0 +1,5 @@
+C:\Users\artat\Documents\CountdownToSomething.exe
+C:\Users\artat\Documents\CountdownToSomething.dll
+C:\Users\artat\Documents\CountdownToSomething.deps.json
+C:\Users\artat\Documents\CountdownToSomething.runtimeconfig.json
+C:\Users\artat\Documents\CountdownToSomething.pdb
